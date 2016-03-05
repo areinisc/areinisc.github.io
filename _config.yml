@@ -2,7 +2,7 @@
 
 title: Themed Blogspot
 locale: en_US
-description: Describe your website here.
+description: This is the greatest thing since I sliced bread last week. Cucumber.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -48,7 +48,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Alex Reinisch
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
