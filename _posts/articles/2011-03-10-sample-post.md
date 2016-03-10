@@ -93,4 +93,4 @@ Non Pygments/Rouge code example
 
 Make any link standout more when applying the `.btn` class.
 
-<div markdown="0"><a href="http://mademistakes.com" class="btn">This is a button</a></div>
+<div markdown="0"><a href="http://mademistakes.com" class="btn">This is like a button</a></div>
