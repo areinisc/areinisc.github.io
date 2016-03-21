@@ -9,7 +9,12 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-I'm creating a place for my thoughts to go.
+I'm creating a place for my thoughts to go.  This site is still in its
+infancy.
+
+My name is Alex Reinisch and I'm interested in solving problems.
+
+{% comment %}
 
 ## So Simple Theme is all about:
 
@@ -24,3 +29,5 @@ I'm creating a place for my thoughts to go.
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
+
+{% endcomment %}
